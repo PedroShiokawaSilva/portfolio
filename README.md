@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Olá! Meu nome é Pedro Shiokawa Silva e sou estudante de Ciências da Computaçãoz.  
+Olá! Meu nome é Pedro Shiokawa Silva e sou estudante de Ciências da Computação.  
 Aqui você encontrará meus projetos, estudos e experiências na área de tecnologia.
 
 ---
@@ -31,6 +31,7 @@ Aqui você encontrará meus projetos, estudos e experiências na área de tecnol
 
 ---
 <div>
+    <p> GITHUB: <a href="https://github.com/PedroShiokawaSilva">https://github.com/PedroShiokawaSilva</a>  </p>
 
 
 
