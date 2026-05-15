@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Olá! Meu nome é **Luis Felipe** e sou estudante de **Ciência da Computação**.  
+Olá! Meu nome é Pedro Shiokawa Silva e sou estudante de Ciências da Computaçãoz.  
 Aqui você encontrará meus projetos, estudos e experiências na área de tecnologia.
 
 ---
@@ -24,8 +24,6 @@ Aqui você encontrará meus projetos, estudos e experiências na área de tecnol
   <img align="center" alt="CSS" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     
-  <img align="center" alt="JS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
 ---
