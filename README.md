@@ -8,14 +8,14 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Olá! Meu nome é Pedro Shiokawa Silva e sou estudante de Ciências da Computação.  
 Aqui você encontrará meus projetos, estudos e experiências na área de tecnologia.
 
 ---
 
-## 💻 Tecnologias
+##  Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50"
@@ -31,9 +31,9 @@ Aqui você encontrará meus projetos, estudos e experiências na área de tecnol
 
 ---
 <div>
-    <p> GITHUB: <a href="https://github.com/PedroShiokawaSilva">https://github.com/PedroShiokawaSilva</a>  </p>
-
-
+    <p> GITHUB: <a href="https://github.com/PedroShiokawaSilva" target:_blank>https://github.com/PedroShiokawaSilva</a>  </p>
+    <p> LINKEDIN: <a href="https://www.linkedin.com/in/pedro-silva-01914a3b0/">https://www.linkedin.com/in/pedro-silva-01914a3b0/</a>   </p>
+    <p> EMAIL: pedroshiokawasilva@gmail.com</p>
 
 
 </div>
