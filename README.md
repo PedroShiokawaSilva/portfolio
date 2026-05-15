@@ -23,10 +23,9 @@ Aqui você encontrará meus projetos, estudos e experiências na área de tecnol
     
   <img align="center" alt="CSS" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
   <img align="center" alt="Python" height="40" width="50"
-    src="https://www.python.org/static/community_logos/python-logo.png?utm_source=chatgpt.com">
-
-
+    src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg?utm_source=chatgpt.com">
     
 </div>
 
