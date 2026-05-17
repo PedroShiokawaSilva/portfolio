@@ -32,7 +32,7 @@ Aqui você encontrará meus projetos, estudos e experiências na área de tecnol
 ---
 <div>
     <p> GITHUB: <a href="https://github.com/PedroShiokawaSilva" target:_blank>https://github.com/PedroShiokawaSilva</a>  </p>
-    <p> LINKEDIN: <a href="https://www.linkedin.com/in/pedro-silva-01914a3b0/">https://www.linkedin.com/in/pedro-silva-01914a3b0/</a>   </p>
+    <p> LINKEDIN: <a href="www.linkedin.com/in/pedro-silva-01914a3b0">www.linkedin.com/in/pedro-silva-01914a3b0/</a>   </p>
     <p> EMAIL: pedroshiokawasilva@gmail.com</p>
     <p>PORTFÓLIO/google sites:https://sites.google.com/view/meuportfoliopedroshiokawasilva/in%C3%ADcio  </p>
 
